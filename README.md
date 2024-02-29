@@ -3,6 +3,8 @@ Servidor de envío de SMS
 
 
 Puede usarse el siguiente cliente de socket tcp-ip en python para enviar mensajes a una lista de numeros
+Asegurese de conectar el equipo cliente y el celular Android a la misma red wifi o LAN
+
 <code>
 #python3
 #eco.py
